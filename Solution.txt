@@ -1,0 +1,17 @@
+strawberry and thyme whip Cost: 0.12  Value: 0.36
+strawberry and lemongrass whirl Cost: 0.15  Value: 0.37
+mint and rosemary explosion Cost: 0.14  Value: 0.36
+nougat and chilli delight Cost: 0.11  Value: 0.35
+truffle and sage crunch Cost: 0.16  Value: 0.38
+hazlenut and lemongrass whip Cost: 0.14  Value: 0.43
+hazlenut and chilli delight Cost: 0.12  Value: 0.36
+toffee and lemongrass explosion Cost: 0.13  Value: 0.37
+strawberry and pepper crunch Cost: 0.14  Value: 0.34
+nougat and sage surprise Cost: 0.12  Value: 0.33
+nougat and sea salt whirl Cost: 0.15  Value: 0.39
+truffle and lemongrass whirl Cost: 0.16  Value: 0.43
+truffle and chilli cream Cost: 0.19  Value: 0.47
+orange and thyme cream Cost: 0.13  Value: 0.38
+Cost £: 1.96
+Retail Price £: 5.32
+Profit £: 3.36
